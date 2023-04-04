@@ -3,7 +3,7 @@
 
 In this project I used Python to scrape and clean Hellacopters' discography. After that, this data was used for a [data visualization in Tableau](https://public.tableau.com/app/profile/jaqueline.bianco/viz/HellacoptersDiscography/Dashboard1).
 
-<img alt="hellacopters-banner-jaquezux" src="hellacopters-banner.png" height="300" >
+<img alt="hellacopters-banner-jaquezux" src="hellacopters-banner.png" width="1000">
 
 
 ##
