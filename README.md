@@ -1,7 +1,13 @@
 # 🎶 Scraping Hellacopters discography with Python 
+
+
 In this project I used Python to scrape and clean Hellacopters' discography. After that, this data was used for a [data visualization in Tableau](https://public.tableau.com/app/profile/jaqueline.bianco/viz/HellacoptersDiscography/Dashboard1).
 
+<img alt="hellacopters-banner-jaquezux" src="hellacopters-banner.png" height="300" >
+
+
 ##
+
 #### 🔎 1) First of all, let's search for the Wikipedia [page containing a table with a list of all albums released by the band](https://en.wikipedia.org/wiki/The_Hellacopters_discography#Singles).
 These are the first 3 list items on Wikipedia:
 
